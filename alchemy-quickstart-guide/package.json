@@ -1,0 +1,10 @@
+{
+  "name": "alchemy-quickstart-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dehvonc@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "alchemy-sdk": "^3.3.1"
+  }
+}
